@@ -92,11 +92,4 @@ React + Vite, CSS moderno responsivo.
 | frontend  | `npm run dev`   | Inicia Vite em modo dev.           |
 | frontend  | `npm run build` | Build estático para produção.      |
 
----
-
-## Próximos passos sugeridos
-- Implementar autenticação de usuários para histórico individual.
-- Substituir sessão em memória por store persistente.
-- Integrar gateway de pagamento real (Stripe, PagSeguro, etc.).
-- Publicar o build front-end em CDN e a API em ambiente gerenciado.
 
